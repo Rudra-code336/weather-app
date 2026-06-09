@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "4d3b065a63bb4d2888b144356260906"
+from config import API_KEY
 
 print("====== 🌤️  WEATHER APP  🌤️ ======")
 
